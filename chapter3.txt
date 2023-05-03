@@ -1,1 +1,2 @@
-hey chapter3 it again learning through udemy a git chapter 
+newfile is being added
+After echo to chapter3.txt it will added to git
